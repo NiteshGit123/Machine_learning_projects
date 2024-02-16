@@ -1,0 +1,2 @@
+This is my machine learning project.Aim of this project is to model the waste management cost as the function of other factors such people in a locality,insdustry in the locality etc.Various preprocessing techniques were used such as missing value imputation,log transformations etc.It was a regression problem, so we used linear regression model.For reducing complexity we used Lasso and Ridge regression.
+MSE and R2 score was used as the metric for evaluation.
