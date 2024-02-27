@@ -1,6 +1,6 @@
 Hi folks..
 This is my machine learning project done during machine learning course.
-Aim of this project as to model the waste management cost as the function of other factors such people in a locality,insdustry in the locality etc.
+Aim of this project was to model the waste management cost as the function of other factors such people in a locality,insdustry in the locality etc.
 The dataset for the project was obtained from kaggle.
 
 
